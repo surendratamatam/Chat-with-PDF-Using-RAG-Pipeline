@@ -155,7 +155,7 @@ def main(pdf_path, query):
     return response
 
 # Define the PDF file path and user query
-pdf_path = "/Users/neeleshsuragani/Desktop/task 1/Digital and social media marketing notes (1).pdf"  # Fixed path string
+pdf_path = ""/Users/royal/Downloads/Digital and social media marketing notes .pdf""  # Fixed path string
 query = "What is the main topic of the document?"
 
 # Call the main function to process the PDF and generate a response
